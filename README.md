@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Hi there. I'm totally a freshman in CS, also an undergraduate student from Guangdong University of Technology.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
