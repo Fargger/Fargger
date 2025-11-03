@@ -18,5 +18,14 @@ Here are some ideas to get you started:
 Hi there. I'm totally a freshman in CS, also an undergraduate student from Guangdong University of Technology.
 
 <!--START_SECTION:waka-->
+
+```txt
+C++           9 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   39.68 %
+PHP           6 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Markdown      2 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+C             2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Other         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+```
+
 <!--END_SECTION:waka-->
 
