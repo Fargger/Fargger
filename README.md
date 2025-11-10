@@ -21,16 +21,16 @@ Hi there. I'm totally a freshman in CS, also an undergraduate student from Guang
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 35 hrs 24 mins
+Total Time: 37 hrs 34 mins
 
-C++           11 hrs 21 mins  ███████▓░░░░░░░░░░░░░░░░░   31.06 %
-Markdown      8 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-PHP           6 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-Python        4 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-C             2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Other         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-JSON          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-HTML          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+C++           11 hrs 21 mins  ███████▒░░░░░░░░░░░░░░░░░   29.29 %
+Markdown      10 hrs 13 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+PHP           6 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Python        4 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+C             2 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Other         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JSON          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+HTML          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
