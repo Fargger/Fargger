@@ -24,9 +24,9 @@ Hi there. I'm totally a freshman in CS, also an undergraduate student from Guang
 Total Time: 96 hrs 32 mins
 
 C               28 hrs 58 mins  ███████░░░░░░░░░░░░░░░░░░   27.88 %
-Markdown        26 hrs 7 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
-Python          12 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-C++             10 hrs 46 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Markdown        25 hrs 36 mins  ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+Python          12 hrs 26 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+C++             11 hrs 39 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
 Other           7 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
 Text            5 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 YAML            3 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
