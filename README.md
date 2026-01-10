@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 Hi there. I'm totally a freshman in CS, also an undergraduate student from Guangdong University of Technology.
 
-### Static from WakaTime
+### Languages I used over the last Month...
+Statics from **Wakatime**.
 <!--START_SECTION:waka-->
 
 ```txt
@@ -34,4 +35,5 @@ Python       1 hr 40 mins    ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 
