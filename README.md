@@ -22,16 +22,16 @@ Statics from **Wakatime**.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 57 hrs 30 mins
+Total Time: 56 hrs 42 mins
 
-JavaScript   20 hrs 57 mins  ████████▒░░░░░░░░░░░░░░░░   33.55 %
-Markdown     15 hrs 29 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
-C            8 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-Other        4 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-PHP          3 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Go           2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Python       1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Text         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JavaScript   23 hrs          █████████▓░░░░░░░░░░░░░░░   38.21 %
+Markdown     16 hrs 8 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+C            5 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Other        3 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+PHP          3 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Go           2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Python       1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Text         1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
