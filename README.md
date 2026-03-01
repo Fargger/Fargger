@@ -22,16 +22,16 @@ Statics from **Wakatime**.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 hrs 49 mins
+Total Time: 40 hrs 7 mins
 
-JavaScript   21 hrs 17 mins        ████████████▓░░░░░░░░░░░░   50.15 %
-Markdown     15 hrs 27 mins        █████████░░░░░░░░░░░░░░░░   36.41 %
-PHP          1 hr 46 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-JSON         1 hr 43 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Other        37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-TypeScript   31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Text         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-HTML         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JavaScript   20 hrs 3 mins         ████████████▒░░░░░░░░░░░░   49.22 %
+Markdown     14 hrs 59 mins        █████████▒░░░░░░░░░░░░░░░   36.78 %
+PHP          1 hr 46 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+JSON         1 hr 43 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Other        37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+TypeScript   31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Text         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+HTML         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
