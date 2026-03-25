@@ -22,16 +22,16 @@ Statics from **Wakatime**.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 51 hrs 7 mins
+Total Time: 51 hrs 37 mins
 
-Markdown           22 hrs 27 mins        ██████████▒░░░░░░░░░░░░░░   41.95 %
-Python             16 hrs 34 mins        ███████▓░░░░░░░░░░░░░░░░░   30.96 %
-JavaScript         6 hrs 23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Other              2 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-JSON               1 hr 16 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-YAML               54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Text               54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Java               38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown           23 hrs 44 mins        ███████████░░░░░░░░░░░░░░   44.10 %
+Python             16 hrs 42 mins        ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+JavaScript         5 hrs 46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Other              2 hrs 14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+JSON               57 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+YAML               54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Text               54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Java               38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
