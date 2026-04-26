@@ -17,23 +17,9 @@ Here are some ideas to get you started:
 
 Hi there. I'm totally a freshman in CS, also an undergraduate student from Guangdong University of Technology.
 
-### Languages I used over the last Month...
-Statics from **Wakatime**.
-<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/7bf87b3b-9fec-4c8d-9549-45d52eaac383.svg)](https://wakatime.com/@7bf87b3b-9fec-4c8d-9549-45d52eaac383)
 
-```txt
-Total Time: 40 hrs 34 mins
-
-Markdown           15 hrs 28 mins        ████████▒░░░░░░░░░░░░░░░░   33.86 %
-Python             8 hrs 41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-Other              5 hrs 8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-JavaScript         4 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-TypeScript         3 hrs 16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-JSON               2 hrs 21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-YAML               1 hr 44 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Typst              1 hr                  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-```
-
-<!--END_SECTION:waka-->
-
-
+- 🔭 I'm currently working on Web Devs and kinds of CTF competitions.
+- 🌱 I'm currently learning building web apps through different frameworks.
+- 💬 Chat with me about anything!
+- 📫 How to reach me: Just email me at huarun233@outlook.com, or visit my tech [blog](https://blog.huarun.moe).
